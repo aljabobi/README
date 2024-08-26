@@ -1,0 +1,14 @@
+ShowKeyPlus - Windows Product Information
+
+Product Name:	Windows 10 Enterprise
+
+Product ID:   	00329-00000-00003-AA918
+
+Build Version:	19041.1 (32-bit OS)
+
+Installed Key:	NPPR9-FWDCX-D2C8J-H872K-2YT43 *
+
+OEM Key:	Windows 7 OEM marker present in firmware
+
+
+* Default key - requires a Digital License for activation
